@@ -4,7 +4,7 @@ export function ClaimMobileHeader() {
   return (
     <header className="sticky top-0 z-50 flex h-[72px] items-center justify-center border-b border-slate-100 bg-white px-4 shadow-sm">
       <Image
-        src="/logo.png"
+        src="/1logo.png"
         alt="BUMITELESHOP — Gadget, Accessories, Supplies"
         width={240}
         height={90}
