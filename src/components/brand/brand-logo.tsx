@@ -21,7 +21,7 @@ export function BrandLogo({
     <div className={cn("flex flex-col items-start gap-1", className)}>
       <div className="bg-white p-2 rounded">
         <Image
-          src="/logo-warranty.png"
+          src="/logo.png"
           alt="BUMITELESHOP — Gadget, Accessories, Supplies"
           width={280}
           height={120}
